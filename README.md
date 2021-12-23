@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Table_ocr for NIA-solution_for_social_issue
 ***
 *원본 소스: <https://github.com/eihli/image-table-ocr>
