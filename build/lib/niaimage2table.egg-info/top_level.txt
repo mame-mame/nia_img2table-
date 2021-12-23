@@ -1,0 +1,4 @@
+cells_detection
+ocr_image
+ocr_to_csv
+tables_detection

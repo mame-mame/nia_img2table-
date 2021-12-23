@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: niaimage2table
+Version: 1.0
+Summary: Extract text from tables in images.
+Home-page: UNKNOWN
+Author: Bae Yong Bin
+Author-email: mame-mame@kakao.com
+License: UNKNOWN
+Keywords: Extract_text,table_ocr,easyOCR
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3
+
+UNKNOWN
+
