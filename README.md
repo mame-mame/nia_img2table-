@@ -36,7 +36,7 @@ img2table.evaluation(reader ,test_dataset_dir='', ouput_dir='')
 
   ## 변경사항
  * 21년 12월 14일
-  * convert, evaluation 파라미터 수정
+   * convert, evaluation 파라미터 수정
 
  * 21년 12월 3일
   * 성능 검증을 위한 evaluation 메서드 및 검증 데이터 추가
@@ -104,12 +104,4 @@ pip install git+https://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@github.com/SANG
 	#test_dataset_dir = 'str' -> 성능 검증에 사용될 데이터의 디렉토리
 	#output_dir = 'str' 	      -> 파일 출력 경로
  ```
-=======
-# nia_img2table
->>>>>>> 00992d70e8f11cf422cb4b659d0af684708d04e4
-=======
-# nia_img2table
->>>>>>> 480b907b7d10b14f7c7a2adec1fd1a1e8cbb07a5
-=======
-# nia_img2table
->>>>>>> a2d73f5e4911bdb64ae1775dfe01b28fa976ea2e
+
