@@ -39,7 +39,7 @@ img2table.evaluation(reader ,test_dataset_dir='', ouput_dir='')
    * convert, evaluation 파라미터 수정
 
  * 21년 12월 3일
-  * 성능 검증을 위한 evaluation 메서드 및 검증 데이터 추가
+   * 성능 검증을 위한 evaluation 메서드 및 검증 데이터 추가
 
  * 21년 10월 13일
    * convert 메서드에 출력형식 변경을 위한 파라미터 추가(output='html' or 'text'  / default: output='html')
